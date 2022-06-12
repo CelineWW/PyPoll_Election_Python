@@ -44,14 +44,7 @@ The analysis of the elction shows as below:
  </p>
 
 ## Election-Audit Summary
-This project successfully analyzed the election data to help determine a local congressional election results. It also can be applied to other similar election audit. 
+This project successfully analyzed the election data so as to help determine a local congressional election results. It also can be applied to other similar election audit by creating a certain list and dictionary, and retrive data from them. 
 For example:
-1. Determine the most popular book from a certain book list. 
-2. Determine the most popular design for a poster.
-3. 
-
-
-
-
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. 
-Give at least two examples of how this script can be modified to be used for other elections.
+1. Determine who will be next president from a csv file with each states ballot information. 
+2. Determine the border member of a community board association from a list of election votes.
