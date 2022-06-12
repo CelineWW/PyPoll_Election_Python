@@ -46,7 +46,9 @@ The analysis of the elction shows as below:
 ## Election-Audit Summary
 This project successfully analyzed the election data to help determine a local congressional election results. It also can be applied to other similar election audit. 
 For example:
-1. 
+1. Determine the most popular book from a certain book list. 
+2. Determine the most popular design for a poster.
+3. 
 
 
 
