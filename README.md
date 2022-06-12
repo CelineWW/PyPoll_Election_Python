@@ -40,8 +40,8 @@ The analysis of the elction shows as below:
  
   *The image shows the summary of election analysis results.*
   <p align="center">
-![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)
- </p>
+     <img src="https://github.com/CelineWW/Election_Analysis/blob/main/analysis/Election_Analysis%20text%20file.PNG">
+  </p>
 
 ## Election-Audit Summary
 This project successfully analyzed the election data so as to help determine a local congressional election results. It also can be applied to other similar election audit by creating a certain list and dictionary, and retrive data from them. 
