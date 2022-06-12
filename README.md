@@ -16,7 +16,7 @@ The following tasks to complete the election audit of a recent local congression
 The analysis of the elction shows as below:
 
 - Total votes
-      - There were 369,711 votes cast in the election.
+     - There were 369,711 votes cast in the election.
 
 - Analysis based on county
   - The county participation were:
@@ -37,8 +37,10 @@ The analysis of the elction shows as below:
      - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
   - The winner of the election was:
      - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-
-![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)
+ 
+  *The image shows the summary of election analysis results.*
+  <p align="center">
+<img![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)>
 
 ## Election-Audit Summary
 Some proposal to the election commission:
