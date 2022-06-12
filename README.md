@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Overview of Election Audit
-The following tasks to complete the election audit of a recent local congressional election by a Colorado Board of Elections employee.
+Analyze the election data to complete the audit of a recent local congressional election by doing following steps.
 1. Calculate the total number of votes cast.
 2. Calculate the total number of votes and vote turnout each county received.
 3. Determine the county with the highest turnout. 
@@ -40,11 +40,13 @@ The analysis of the elction shows as below:
  
   *The image shows the summary of election analysis results.*
   <p align="center">
-<img![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)>
+![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)
+ </p>
 
 ## Election-Audit Summary
-Some proposal to the election commission:
-
+This project successfully analyzed the election data to help determine a local congressional election results. It also can be applied to other similar election audit. 
+For example:
+1. 
 
 
 
