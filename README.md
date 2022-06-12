@@ -9,8 +9,7 @@ The following tasks to complete the election audit of a recent local congression
 5. Determine the winner of the election based on popular vote.
 
 ## Resources and Tools
-- Data Source: election_results.csv
-[elction_results](https://github.com/CelineWW/Election_Analysis/blob/main/Resources/election_results.csv)
+- Data Source: [election_results.csv](https://github.com/CelineWW/Election_Analysis/blob/main/Resources/election_results.csv)
 - Software Python 3.7.6, Visual Studio Code, 1.68.0
  
 ## Election-Audit Results
