@@ -16,26 +16,26 @@ The following tasks to complete the election audit of a recent local congression
 The analysis of the elction shows as below:
 
 - Total votes
-     - There were 369,711 votes cast in the election.
+      - There were 369,711 votes cast in the election.
 
 - Analysis based on county
-  1. The county participation were:
+  - The county participation were:
      - 10.5% of votes were from Jefferson, with number of 38,855 votes.
      - 82.8% of votes were from Denver, with number of 306,055 votes.
      - 6.7% of votes were from Arapahoe, with number of 24,801 votes.
-  2. The county with the largest vote turnout:
+  - The county with the largest vote turnout:
      - Denver holds the highest participation to this election.
 
 - Analysis based on candidate
-  1. The candidates were:
+  - The candidates were:
      - Charles Casper Stockham
      - Diana DeGette
      - Raymon Anthony Doane
-  2. The candidate results were:
+  - The candidate results were:
      - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
      - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
      - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
-  3. The winner of the election was:
+  - The winner of the election was:
      - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ![Election_Analysis](https://user-images.githubusercontent.com/105877888/173209055-734990a7-e3d9-4bcb-bbcd-336c4208a20e.PNG)
